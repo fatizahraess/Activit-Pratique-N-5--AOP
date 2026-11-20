@@ -1,3 +1,4 @@
+
 package net.essadiki.services;
 
 public interface IMetier {
@@ -6,4 +7,5 @@ public interface IMetier {
 
     double compute(double a, double b);
 
+    double divide(double a, double b);
 }
